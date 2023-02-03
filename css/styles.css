@@ -1,34 +1,87 @@
-#title{
-    background-color:#ff4c68;
+/*Head of the site*/
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
 }
 
-h2{
+/*features icons */
+
+h2 {
     font-family: 'Montserrat', sans-serif;
-    size: 3rem;
+    font-size: 3rem;
     line-height: 1.5;
-    font-size: 50px;
-    
 }
-.container-fluid{
+
+h3 {
+    font-family: 'Lobster', 'cursive';
+    font-size: 1.5rem;
+    color: black;
+}
+.container-fluid {
     padding: 3% 15%;
 }
-.btn{
+.fa-heart {
+    color: #ef8172;
+    font-size: 2.5rem;
+
+}
+.fa-heart:hover {
+    color: rgb(253, 55, 55);
+}
+.fa-bullseye {
+    color: #ef8172;
+    font-size: 2.5rem;
+
+}
+.fa-bullseye:hover {
+    color: rgb(253, 55, 55);
+}
+.fa-circle-check {
+    color: #ef8172;
+    font-size: 2.5rem;
+}
+.fa-circle-check:hover {
+    color: rgb(253, 55, 55);
+}
+.btn {
     font-style: italic;
-   
+
+}
+#features {
+    padding-top: 100px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.8rem;
+    color: #8f8f8f;
+}
+/*navbar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+
+}
+.navbar-brand {
+    font-family: 'Lobster', 'cursive';
+    font-size: 2rem;
 }
 
-.navbar-brand{
-    font-family: 'Lobster', cursive;
-    font-size: 50px;
+.nav-item {
+    padding: 0 18px;
 }
 
-#navbarSupportedContent{
-    font-size: 27px;
+.nav-link {
+    font-family: 'Ubuntu', 'cursive';
+
 }
 
-.catsiton{
-      
-        margin-top:120px;
-        position: absolute;
-      
+/*Images of the head*/
+
+.Title-image {
+    width: 60%;
+
+}
+/*Download Buttons*/
+
+.download-btn {
+    margin: 5% 3% 5% 0;
 }
