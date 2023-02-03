@@ -77,8 +77,10 @@ h3 {
 /*Images of the head*/
 
 .Title-image {
-    width: 60%;
-
+    width: 30%;
+    position: absolute;
+  margin-top: -150px;
+  margin-left:300px;
 }
 /*Download Buttons*/
 
