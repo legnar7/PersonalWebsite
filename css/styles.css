@@ -23,7 +23,6 @@ h3 {
 }
 .fa-heart {
     color: #ef8172;
-    font-size: 2.5rem;
 
 }
 .fa-heart:hover {
@@ -31,15 +30,16 @@ h3 {
 }
 .fa-bullseye {
     color: #ef8172;
-    font-size: 2.5rem;
-
+    color: #ef8172;
+    
 }
 .fa-bullseye:hover {
     color: rgb(253, 55, 55);
 }
 .fa-circle-check {
     color: #ef8172;
-    font-size: 2.5rem;
+    color: #ef8172;
+   ;
 }
 .fa-circle-check:hover {
     color: rgb(253, 55, 55);
@@ -49,7 +49,7 @@ h3 {
 
 }
 #features {
-    padding-top: 100px;
+    padding:7% 15%;
     font-family: 'Montserrat', sans-serif;
     font-size: 0.8rem;
     color: #8f8f8f;
