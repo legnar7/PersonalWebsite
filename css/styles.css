@@ -228,3 +228,8 @@ h3 {
 .fa-whatsapp:hover{
     color:#2c9e2c;
 }
+
+a { 
+    text-decoration: none;
+    outline: none;
+}
