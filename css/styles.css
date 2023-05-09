@@ -168,6 +168,11 @@ h3 {
     color: rgb(252, 252, 252);
 }
 
+.MLD {
+width: 62px;
+
+}
+
 /*media query section*/
 @media (max-width: 1028px) {
 
@@ -227,6 +232,7 @@ h3 {
 }
 .fa-whatsapp:hover{
     color:#2c9e2c;
+    
 }
 
 a { 
